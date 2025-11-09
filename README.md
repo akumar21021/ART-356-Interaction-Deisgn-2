@@ -260,3 +260,74 @@ something was wrong? How did it affect your confidence or mood?
 people feel safer and more in control?
 3. Can you think of other times when silence or lack of feedback caused
 confusion or mistakes?
+
+# Chapter 5 – Reflection on *Human Error? No, Bad Design* (Part 1)
+
+In Chapter 5, Don Norman explains that what we often call **human error**
+is usually **bad design**. When people make mistakes, it’s not because
+they are careless or lazy—it’s because the product or system didn’t
+guide them clearly or help them recover. Norman says good design should
+expect people to make slips and mistakes and make it easy to fix them.
+
+He describes two main types of errors:
+- **Slips** – when you mean to do the right thing but press or move the
+wrong way.
+- **Mistakes** – when you think you’re doing the right thing but
+misunderstood how something works.
+
+Good design helps people recover from both. That could mean adding an
+**undo** button, showing a **warning message**, or saving your work
+automatically so you don’t lose progress.
+
+### My Reflection
+
+As someone on the **high-functioning autism spectrum**, I deal with fine motor
+challenges every day. One example is **belts**. I find it hard to line up
+the buckle and get the pin through the right hole. I prefer **magnetic belts** or
+**elastic belts** that are already fixed to the pants. Those designs
+remove the need for small, precise hand movements—they make life
+simpler and more inclusive. According to Norman, that’s exactly what
+human-centered design should do: make the product fit the user, not the
+
+other way around.
+
+Another example is **toothpaste**. Squeezing the tube neatly is messy
+for most people, but especially hard for me. Putting the cap back and closing it is
+another challenge. A **toothpaste dispenser** solves this problem for everyone. It gives
+the right amount, keeps the sink clean, and takes away frustration. That’s not a “lazy”
+solution—it
+shows how good design can remove the chance of error.
+
+My mom often says, *“A good workman doesn’t blame his tools.”*
+That’s what many people are taught in our culture—we’re trained to
+adjust, not complain. But Norman helps me see it differently. If
+something doesn’t work well for people, the **design** should improve,
+not the person.
+
+Finally, I really appreciate tools that plan for recovery. Programs like
+**Adobe Creative Cloud** or **Autodesk** save work automatically. Even
+if the software crashes, I know I can get my work back. That gives me
+confidence to explore new features and take risks. It’s a great example
+of **error recovery**, not **error blame**.
+
+---
+
+### In Short
+
+Good design accepts that people make mistakes.
+It gives clear feedback, prevents errors when possible, and helps users
+recover quickly.
+
+Designers shouldn’t ask people to “just be more careful”—they should
+make products that care for the people using them.
+
+---
+
+## Thought Questions
+
+1. Why do you think so many people blame themselves instead of blaming
+bad design when things go wrong?
+2. How could small, everyday tools—like belts, toothpaste tubes, or
+kitchen items—be redesigned to make life easier for everyone?
+3. What features in your favorite apps or tools help you recover when
+something goes wrong? How do they make you feel?
