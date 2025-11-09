@@ -132,4 +132,68 @@ digital design?
 physical or logical constraint helped keep you from making an error?
 
 
+# Chapter 4 – Reflection on Knowing What to Do: Constraints, Discoverability,
+and Feedback
 
+In Chapter 4, Don Norman explains that good design helps people know
+what to do and what not to do without needing a manual. He says this
+happens through “constraints”—rules or limits that guide how we use
+something. When designers use the right constraints, people can figure
+things out safely and easily.
+
+Norman talks about four kinds of constraints:
+
+1. Physical constraints – the shape or size of something limits how
+you can use it.
+Example: a USB plug only fits one way.
+2. Cultural constraints – things we learn from habits or society.
+Example: red means stop, green means go.
+3. Semantic constraints – clues from meaning or context.
+Example: a cup handle is for holding, not stirring.
+4. Logical constraints – reasoning that helps us know what makes
+sense.
+Example: the last puzzle piece can only go in one spot.
+
+These ideas made me think about two programs I use: Unity and
+Adobe XD
+
+When exporting a project in Unity, you can choose any folder on your
+computer. The problem is that Unity does not stop you from choosing a
+
+folder that already has files in it. If you do, it will completely
+overwrite that folder and delete your work. The warning message that
+appears does not help much—it highlights “Yes” instead of “No.” It
+doesn’t protect you from making a big mistake. This is a design with
+“poor constraints” and misleading “feedback”. It lets users go down the
+wrong path too easily.
+
+Adobe XD, on the other hand, shows how good constraints and
+signifiers work together. When you create a prototype (linking one
+artboard to another), the next step is clear. The right button is
+highlighted, and colors show which slide you are connecting to. It
+feels smooth and easy because the design uses color and layout to show
+the safest and most likely action. That is what Norman means by using
+“signifiers” and “logical constraints”—they help people do the right
+thing without guessing.
+
+Comparing the two makes the lesson clear.
+Unity’s design caused confusion and frustration because it didn’t guide
+me or protect my work. Adobe XD made me feel confident because it gave
+clear signals and feedback. Norman’s message is simple: good design
+keeps people safe, confident, and focused on their goal.
+
+In short:
+Unity forgot to use constraints that stop mistakes.
+Adobe XD used good constraints and signifiers to guide me the right way.
+Good design should always help people know what to do next.
+
+Questions to think about
+
+1. Have you ever used software or a device that lets you make a big
+mistake too easily? What kind of constraint could have prevented it?
+
+2. Why do you think color and layout are so powerful as signifiers in
+digital design?
+
+3. Can you think of an example from real life (not software) where a
+physical or logical constraint helped keep you from making an error?
